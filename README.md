@@ -1,5 +1,14 @@
 # Excel-Sales_Finance_Analytics
 
+Atliq Hardwares is a company which sells hardware items such as PC, Laptop, Mouse, Printers and many more to different customers. They manufacture and sell hardware items through different channels mentioned below:
+
+1. Retailers (brick-and-mortar customers like Croma and Best Buy and e-commerce customers like Amazon and Flipkart).
+
+2. Direct (Company's own store like Atliq e-store and Atliq Exclusive).
+
+3. Distributor (In China and South Korea, sales to be done through distributor like Neptune due to govenment regulations).
+
+These customers in-turn sell the hardwares to end-consumer.
 
 ## PROBLEM STATEMENT :
   Create an Excel-based Sales and Finance Analytics Report to derive informed decisions.
